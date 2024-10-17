@@ -8,7 +8,7 @@ The instructions will help you install Pycharm to your local machine to be able 
 
 ### Prerequisites
 
-Songs into function requires "PyCharm Community Edition" to run, please follow this link to download Pycharm on your local machine, make sure you scroll down to select "PyCharm Community Edition": https://www.jetbrains.com/pycharm/download/?section=mac 
+Songs into a function requires "PyCharm Community Edition" to run, please follow this link to download Pycharm on your local machine, make sure you scroll down to select "PyCharm Community Edition": https://www.jetbrains.com/pycharm/download/?section=mac 
 
 ## Running
 Once installed open up PyCharm, click on "New Project" on the top right corner. Select desired location of your new project. Once selected click "Create". Right click on the "venv" folder and select "New Python file" name it "Song into Functions.py" don't forget the .py at the end. Hit enter and you are ready to code!
